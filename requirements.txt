@@ -1,3 +1,2 @@
 streamlit
-sqlite3  # Note: sqlite3 is part of the Python standard library, so you don't need to include it
 bcrypt
